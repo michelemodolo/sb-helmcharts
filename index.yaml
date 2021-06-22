@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  alphanumber:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-06-22T17:22:42.297668+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 2b295dfbb9269d13f3d46c77f58f3b7f760508c8d56f52214b670c30096feb15
+    name: alphanumber
+    type: application
+    urls:
+    - https://michelemodolo.github.io/sb-helmcharts/alphanumber-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-22T17:22:42.296069+02:00"
